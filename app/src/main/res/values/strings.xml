@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">medisoft</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_desc">Enter your login details to access your account</string>
+    <string name="reg_desc"></string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="purchase_order">PURCHASE ORDER</string>
+    <string name="supplier_prompt">Supplier Name</string>
+    <string name="placed_orders">View Placed Orders</string>
+    <string name="message">This App will send you an SMS message for verification and standard rates apply.. Kindly enter your phone Number</string>
+
+
+    <string-array name="periods">
+        <item>Choose</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="sorts">
+        <item>Choose</item>
+        <item>Quantity</item>
+        <item>Product name</item>
+        <item>Manufacturer</item>
+        <item>Supplier name</item>
+        <item>Sales quantity</item>
+
+    </string-array>
+</resources>
