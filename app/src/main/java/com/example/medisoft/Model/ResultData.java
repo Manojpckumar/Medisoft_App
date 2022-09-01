@@ -84,4 +84,17 @@ public class ResultData {
         this.orderByClient = orderByClient;
     }
 
+
+    @SerializedName("AllShopsbyAdmin")
+    @Expose
+    private List<AllShopsbyAdmin> allShopsbyAdmin = null;
+
+    public List<AllShopsbyAdmin> getAllShopsbyAdmin() {
+        return allShopsbyAdmin;
+    }
+
+    public void setAllShopsbyAdmin(List<AllShopsbyAdmin> allShopsbyAdmin) {
+        this.allShopsbyAdmin = allShopsbyAdmin;
+    }
+
 }

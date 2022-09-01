@@ -33,6 +33,14 @@
         <item>Manufacturer</item>
         <item>Supplier name</item>
         <item>Sales quantity</item>
+    </string-array>
+
+    <string-array name="clients">
+        <item>Choose</item>
+        <item>Town Medicals</item>
+        <item>Neethi Medicals</item>
+        <item>Aswas Medicals</item>
 
     </string-array>
+
 </resources>

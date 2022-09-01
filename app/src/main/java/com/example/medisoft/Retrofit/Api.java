@@ -33,6 +33,9 @@ public interface Api {
     @POST(APIClient.APPEND_URL + "getPurchaseOrderByClient")
     Call<JsonObject> getPurchaseOrderByClient(@Body JsonObject object);
 
+    @POST(APIClient.APPEND_URL + "getAllShopbyAdmin")
+    Call<JsonObject> getAllShopbyAdmin(@Body JsonObject object);
+
 
 
 
